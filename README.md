@@ -23,9 +23,9 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game in 
    ```bash
    python tic_tac_toe.py
    
+## Example Usage  
    Welcome to Tic-Tac-Toe!
    
-## Example Usage   
    Player 1: X | Player 2: O
       |   |
    -----------
