@@ -22,49 +22,50 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game in 
 
    ```bash
    python tic_tac_toe.py
-
-## Example Usage
-
-Welcome to Tic-Tac-Toe!
-Player 1: X | Player 2: O
-   |   |
------------
-   |   |
------------
-   |   |
-Player X, make your move (row and column):
-1 1
-   |   |
------------
-   | X |
------------
-   |   |
-Player O, make your move (row and column):
-0 0
- O |   |
------------
-   | X |
------------
-   |   |
-Player X, make your move (row and column):
-2 2
- O |   |
------------
-   | X |
------------
-   |   | X
-Player O, make your move (row and column):
-0 2
- O |   | O
------------
-   | X |
------------
-   |   | X
-Player X, make your move (row and column):
-1 2
- O |   | O
------------
-   | X | X
------------
-   |   | X
-Player X wins!
+   
+   Welcome to Tic-Tac-Toe!
+   
+## Example Usage   
+   Player 1: X | Player 2: O
+      |   |
+   -----------
+      |   |
+   -----------
+      |   |
+   Player X, make your move (row and column):
+   1 1
+      |   |
+   -----------
+      | X |
+   -----------
+      |   |
+   Player O, make your move (row and column):
+   0 0
+    O |   |
+   -----------
+      | X |
+   -----------
+      |   |
+   Player X, make your move (row and column):
+   2 2
+   O |   |
+   -----------
+      | X |
+   -----------
+      |   | X
+   Player O, make your move (row and column):
+   0 2
+   O |   | O
+   -----------
+      | X |
+   -----------
+      |   | X
+   Player X, make your move (row and column):
+   1 2
+    O |   | O
+   -----------
+      | X | X
+   -----------
+      |   | X
+   Player X wins!
+   
